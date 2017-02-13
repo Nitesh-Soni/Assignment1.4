@@ -29,7 +29,6 @@ Scale out:
 ·         Instead of having a single system with of 10TB of storage and 80GB of RAM,use 40 Machines with 256GB of Storage and 2GB of RAM.
 
 
-
 3)Scaling up:
                     It refers to architecture that uses a fixed controller resource for all processing. Scaling capacity happens by adding storage shelves up to the maximum number permitted for that controller. In order to maintain high availability, such architectures typically use dual controllers. However, the majority of them act as “active-passive” which creates a situation whereby the array’s performance is limited by the performance of a single controller. It leads to waste of 50 percent resources under normal operations and the industry has really moved away from it.
           Scaling out:
